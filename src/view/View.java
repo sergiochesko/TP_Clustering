@@ -306,4 +306,7 @@ public class View {
 		lblNewLabel.setBounds(181, 11, 246, 34);
 		panelSecundario.add(lblNewLabel);
 	}
+	/*
+	 * final
+	 */
 }
